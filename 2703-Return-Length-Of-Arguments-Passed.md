@@ -7,7 +7,7 @@
 
 ---
 
-![Problem Screenshot](./screenshots/2703-problem.png)
+![Problem Screenshot](./screenshots/problem-2703.png)
 
 ## Problem Summary
 
