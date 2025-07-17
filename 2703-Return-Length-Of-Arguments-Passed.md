@@ -24,6 +24,7 @@ argumentsLength({}, null, "3"); // Output: 3
 ```
 
 ## My Solution (JavaScript)
+```js
 /**
  * @param {...(null|boolean|number|string|Array|Object)} args
  * @return {number}
@@ -32,6 +33,10 @@ var argumentsLength = function(...args) {
     return args.length;
 };
 
+/**
+ * argumentsLength(1, 2, 3); // 3
+ */
+```
 
 ## What I Learned
 - How to use the rest parameter (...args) in JavaScript
