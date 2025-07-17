@@ -2,7 +2,7 @@
 
 Welcome to my journey of becoming a proficient programmer and IT professional. Here you'll find:
 
-- 📘 LeetCode & other programming challenge solutions with reflections on how I did
+- 📘 LeetCode & other programming challenge solutions with reflections on my thought processes
 - 🧠 The lessons I learned from each problem
 - ✅ What went well and what I can improve on
 - 📸 Screenshots of each challenge for visual reference
