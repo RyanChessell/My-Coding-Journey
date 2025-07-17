@@ -19,8 +19,8 @@ This repo is both a personal accountability tool and a public resource. I want t
 
 Each folder contains:
 - The original question image
-- My solution in code
-- A reflection note
+- My solution to the problem 
+- A quick reflection summary of my work
 
 ## 📸 Follow Along
 
