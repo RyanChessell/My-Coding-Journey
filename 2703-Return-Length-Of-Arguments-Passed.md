@@ -16,10 +16,12 @@ Write a function `argumentsLength` that returns the count of arguments passed to
 ### Example 1:
 ```js
 argumentsLength(5); // Output: 1
+```
 
 ## Example 2:
 ```js
 argumentsLength({}, null, "3"); // Output: 3
+```
 
 ## My Solution (JavaScript)
 /**
