@@ -13,7 +13,7 @@
 
 Write a function `argumentsLength` that returns the count of arguments passed to it.
 
-### Example 1:
+## Example 1:
 ```js
 argumentsLength(5); // Output: 1
 ```
